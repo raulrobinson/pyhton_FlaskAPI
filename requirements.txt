@@ -1,0 +1,5 @@
+pymysql~=1.0.2
+flask~=2.2.2
+flask_table
+Flask-MySQL==1.5.2
+Werkzeug~=2.2.2
